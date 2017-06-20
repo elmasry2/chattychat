@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "785325461894",
+    "firebase_url": "https://chatty-5331d.firebaseio.com",
+    "project_id": "chatty-5331d",
+    "storage_bucket": "chatty-5331d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785325461894:android:97f63b3baf0f2efe",
+        "android_client_info": {
+          "package_name": "net.paymac.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785325461894-bmirdjfu9ka1fa2k5jd63ioh31khfn8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFoCFIh084-DH-o8YDu5OFsd69gNvCE8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
