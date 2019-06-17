@@ -1,6 +1,6 @@
 # chattychat
 
-chattyChat is an an android chat application for using Firebase and php&MySQL with Realm Database 
+chattyChat is an android chat application for using Firebase and php&MySQL with Realm Database 
 depending on retrofit android library and other android libraries 
 it's open source project for our graduation from computer science major 2017
 
